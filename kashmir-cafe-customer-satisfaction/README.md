@@ -37,6 +37,3 @@ The dataset includes 10,616 responses collected from a customer satisfaction sur
 - GitHub
 - CSV-formatted survey data
 
-## 📄 License
-
-This project uses the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license (public domain).
