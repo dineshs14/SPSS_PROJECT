@@ -29,8 +29,6 @@
 ## 📬 Author
 
 > **Dinesh S.**  
-> Contact: [Optional email or GitHub profile]  
-> SPSS Project Submission – 2025
 
 ---
 
